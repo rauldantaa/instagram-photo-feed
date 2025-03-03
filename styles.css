@@ -1,0 +1,33 @@
+body{
+    background: gray;
+    margin: 0px;
+}
+.cabecera{
+     background: white;
+     padding: 10px;
+     display: flex;
+     margin-bottom:10px;
+    
+}
+.cabecera h1{
+    margin: auto;
+    
+}
+
+.Post{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+
+}
+section img{
+    width: 100%
+
+}
+.date{
+    float: right;
+    margin-right: 10px;
+    color: gray;
+}
